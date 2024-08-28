@@ -141,7 +141,7 @@ export default function Chatbot() {
                         onChange={handleInputChange}
                         onKeyDown={handleKeyDown}
                     />
-                    <button onClick={handleSubmit} className="btn">Submit</button>
+                    <button onClick={handleSubmit} className="btn">Send</button>
                 </div>
             </div>
         </>
